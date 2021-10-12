@@ -8,6 +8,8 @@
     Enter your name: <input type="text" name="name" size="24">
     <br>
     Enter email: <input type="email" name="email" size="24">
+    <br>
+    Enter password: <input type="password" name="password" size="24">
     <input type="submit" value="Submit" />
 </form>
 </body>
