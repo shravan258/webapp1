@@ -6,6 +6,7 @@
 <b>Hello Shravan Here,Welcome to Servlets!</b>
 <form action="HelloWorldServlet" method="get">
     Enter your name: <input type="text" name="name" size="24">
+    <br>
     Enter email: <input type="email" name="email" size="24">
     <input type="submit" value="Submit" />
 </form>
